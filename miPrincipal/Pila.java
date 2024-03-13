@@ -23,8 +23,21 @@ public Pila(){
       nuevo.setSiguente(cabeza);
       cabeza=nuevo;
     }
+    tamano++;
+  }
+public void retirar(){
+  if(!esVacio){
+    cabeza=cabeza.setSiguente;
+    tamano--;
+  }
+  public T cima(){
+    if(!esVacio){
+      return cabeza.
+        
+    }
     
   }
-
+  
+}
   
 }
