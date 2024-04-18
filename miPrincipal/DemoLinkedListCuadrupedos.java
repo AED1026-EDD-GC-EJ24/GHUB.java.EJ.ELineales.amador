@@ -59,7 +59,7 @@ public class DemoLinkedListCuadrupedos {
             System.out.println("Perros: " + perroCount);
             System.out.println("Elefantes: " + elefanteCount);
 
-            System.out.println("Muestra la lista de todos los cuadrúpedos credos:");
+            System.out.println("Muestra la lista de todos los cuadrúpedos creados:");
 
             Cuadrupedo temp = null;
             Iterator<Cuadrupedo> it = cuadrupedos.iterator();
