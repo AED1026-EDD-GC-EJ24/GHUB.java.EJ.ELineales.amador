@@ -3,7 +3,8 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Iterator;
-import personas.Personas;
+import personas.Persona;
+
 /*
  * En código creamis un ArrayList lp que es nuestro objeto con la lista de Personas. 
  * Procedemos con una carga bastante pesada como pueden ser 1.000 objetos de la clase Persona. 

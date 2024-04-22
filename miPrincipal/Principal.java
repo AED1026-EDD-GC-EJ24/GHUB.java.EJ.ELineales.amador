@@ -21,6 +21,7 @@ public class Principal{
             System.out.println(" 10) LinkedList y ArrayList");
             System.out.println(" 11) ArrayList de Personas");
             System.out.println(" 12) LinkedList de Cuadrúpedos");
+            System.out.println(" 13) Lista de contactos");
 
             System.out.println();
 
@@ -64,6 +65,10 @@ public class Principal{
                     DemoLinkedListCuadrupedos.menu();
                     break;
     
+                    case 13:
+                    DemoListaContactos.menu();
+                    break;
+                    
                 case 0:
                     System.out.println("ADIOS!");
                     consola.close();
